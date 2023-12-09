@@ -1,5 +1,5 @@
 ### Ну тут должна быть крутая ридмишка, но получится как получится
 
-[dsadsa](/img/maxresdefault.jpg)
+![dsadsa](/img/maxresdefault.jpg)
 
 # Пу пу пу
