@@ -125,9 +125,9 @@ for (i := 0; i != 150; i++)
 в таком случае max/min заменяем на бинарку с ограничением снизу/сверху  
 
 ```math
-\frac{\sum_{l}^r a_i}{r - l} >= x\\
-\sum_{l}^r a_i >= x * (r - l)\\
-\sum_{l}^r (a_i - x) >= 0\\
+\begin\frac{\sum_{l}^r a_i}{r - l} >= x\\\end
+\begin\sum_{l}^r a_i >= x * (r - l)\\\end
+\begin\sum_{l}^r (a_i - x) >= 0\\\end
 ```
 
 подобное ищется префиксными суммами 
